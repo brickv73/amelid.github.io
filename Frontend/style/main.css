@@ -1,0 +1,39 @@
+.navbar-brand {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 28px;
+}
+
+.nav-item {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.nav-item .nav-link.active {
+  font-weight: 600;
+  color: palevioletred !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.nav-link:hover {
+  color: palevioletred !important;
+}
+
+/* Hero Section */
+.hero-section h1 {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-size: 55px;
+}
+
+.hero-section p {
+  font-family: 'Poppins';
+    font-weight: 200;
+    font-size: 15px;
+}
+/* Tutup Hero Section */
